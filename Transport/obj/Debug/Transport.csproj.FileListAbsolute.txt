@@ -1,0 +1,39 @@
+D:\MyProjects\Transport\bin\Debug\Transport.exe.config
+D:\MyProjects\Transport\bin\Debug\Transport.exe
+D:\MyProjects\Transport\bin\Debug\Transport.pdb
+D:\MyProjects\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+D:\MyProjects\Transport\obj\Debug\Transport.exe
+D:\MyProjects\Transport\obj\Debug\Transport.pdb
+D:\MyProjects\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22306\Исследование операций\Transport\bin\Debug\Transport.exe.config
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22306\Исследование операций\Transport\bin\Debug\Transport.exe
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22306\Исследование операций\Transport\bin\Debug\Transport.pdb
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22306\Исследование операций\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22306\Исследование операций\Transport\obj\Debug\Transport.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22306\Исследование операций\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22306\Исследование операций\Transport\obj\Debug\Transport.exe
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22306\Исследование операций\Transport\obj\Debug\Transport.pdb
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22405\Transport\bin\Debug\Transport.exe.config
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22405\Transport\bin\Debug\Transport.exe
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22405\Transport\bin\Debug\Transport.pdb
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22405\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22405\Transport\obj\Debug\Transport.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22405\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22405\Transport\obj\Debug\Transport.exe
+C:\Users\Tatyana\OneDrive\Desktop\PetrSU\22405\Transport\obj\Debug\Transport.pdb
+C:\Users\Tatyana\Desktop\testing\Transport\bin\Debug\Transport.exe.config
+C:\Users\Tatyana\Desktop\testing\Transport\bin\Debug\Transport.exe
+C:\Users\Tatyana\Desktop\testing\Transport\bin\Debug\Transport.pdb
+C:\Users\Tatyana\Desktop\testing\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+C:\Users\Tatyana\Desktop\testing\Transport\obj\Debug\Transport.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatyana\Desktop\testing\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\Desktop\testing\Transport\obj\Debug\Transport.exe
+C:\Users\Tatyana\Desktop\testing\Transport\obj\Debug\Transport.pdb
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing\Transport\bin\Debug\Transport.exe.config
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing\Transport\bin\Debug\Transport.exe
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing\Transport\bin\Debug\Transport.pdb
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing\Transport\obj\Debug\Transport.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing\Transport\obj\Debug\Transport.exe
+C:\Users\Tatyana\OneDrive\Desktop\Тестирование\testing\Transport\obj\Debug\Transport.pdb
